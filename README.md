@@ -26,9 +26,9 @@
 
 ## 📈 Estatísticas do GitHub  
 
-![Samuel GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)  
+![Samuel GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rlopes2005&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rlopes2005&layout=compact&theme=tokyonight)  
 
 ---
 
